@@ -1,0 +1,14 @@
+.job-card {
+  border: 1px solid #ddd;
+  padding: 1rem;
+  margin: 1rem 0;
+  border-radius: 8px;
+  background: #f9f9f9;
+}
+.job-card h3 {
+  margin: 0;
+  color: #333;
+}
+.job-card button {
+  margin-right: 0.5rem;
+}
